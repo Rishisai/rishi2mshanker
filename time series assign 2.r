@@ -169,4 +169,10 @@ arrows(2004 - 3, 2450, 1991.25, 2450, code = 3, length = 0.1, lwd = 1,angle = 30
 arrows(2004.5 - 3, 2450, 2004, 2450, code = 3, length = 0.1, lwd = 1,angle = 30)
 arrows(2004.5, 2450, 2006, 2450, code = 3, length = 0.1, lwd = 1, angle = 30)
 
+# There was a huge dip in amount of air miles driven , after the 9/11 attack.The lowest has gone to 
+#almost 1994 levels of total miles driven.However eventually the total miles picked up again by 2003
+
+#There was not any major down fall in total vehicel miles travelled. In general it can be termed as less intensive event to vehicle miles.
+
+#The total rail miles however was in a consolidation and the event has not affected it much .
 
